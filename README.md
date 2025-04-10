@@ -5,7 +5,7 @@ This repository contains source code and simulation results for the submitted RA
 
 ## Validation Case Demonstrations
 
-The videos in the `videos/` directory illustrate the experimental validation of the proposed control framework. They correspond to the evaluation scenarios presented in the paper (see Section V):
+The videos in the `videos/` directory illustrate the validation of the proposed control framework. They correspond to the evaluation scenarios presented in the paper (see Section V):
 
 | **Case**                        | **Description**                                                                                                                                                   | **Video File**      |
 |---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|
