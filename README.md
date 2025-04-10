@@ -1,7 +1,7 @@
 # DynamicGrqaspNP
 This repository contains source code and simulation results for the submitted RA-L paper:
 > **Dynamic Grasp of Rigid Bodies Using a Trajectory-Based Explicit Reference Governor**  
-<!--- Mohayad Omer, Bryan Convens, Kelly Merckaert, Bram Vanderborght, and Greet Van de Perre --->
+
 
 ## Validation Case Demonstrations
 
@@ -14,3 +14,4 @@ The videos in the `videos/` directory illustrate the validation of the proposed 
 | **Case 3: Full Constraints**    | Both the system constraints and the non-sliding constraint (friction cone) are actively enforced. This prevents object slippage and maintains stable contact throughout the maneuver.             | [`videos/CASE_3.mp4`](./videos/CASE3.mp4) |
 
 <!-- ▶️ A supplementary YouTube playlist of these cases is available [here](https://youtube.com/playlist?list=PLtp-nqaUclZNtt_kPpngbQ8GJ30u-u-5j&si=zA2FKwNum7QzDjcC). --->
+<!--- Mohayad Omer, Bryan Convens, Kelly Merckaert, Bram Vanderborght, and Greet Van de Perre --->
