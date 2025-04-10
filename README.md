@@ -1,7 +1,7 @@
-# Dynamic Grasp of Rigid Bodies Using a Trajectory-Based Explicit Reference Governor
+# DynamicGrqaspNP
 This repository contains source code and simulation results for the submitted RA-L paper:
 > **Dynamic Grasp of Rigid Bodies Using a Trajectory-Based Explicit Reference Governor**  
-> Mohayad Omer, Bryan Convens, Kelly Merckaert, Bram Vanderborght, and Greet Van de Perre
+<!--- Mohayad Omer, Bryan Convens, Kelly Merckaert, Bram Vanderborght, and Greet Van de Perre --->
 
 ## Validation Case Demonstrations
 
